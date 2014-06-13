@@ -18,6 +18,17 @@ day. The data consists of two months of data from an anonymous
 individual collected during the months of October and November, 2012
 and include the number of steps taken in 5 minute intervals each day.
 
+##Files
+This is the report based on personal movement data for the Reproducible Research Assignment 1. This report is designed to give a simple overview of the data that can be reproduced from the code in this github repository. The files included in this report are the following:
+- PA1_template.Rmd - the R markdown file containing the code and report
+- PA1_template.md - the markdown document created with knit2html
+- PA1_template.html - the html document created with knit2html
+- figure\unnamed-chunk-2.png - plot used in the report
+- figure\unnamed-chunk-4.png - plot used in the report
+- figure\unnamed-chunk-7.png - plot used in the report
+- figure\unnamed-chunk-101.png - plot used in the report
+- figure\unnamed-chunk-102.png - plot used in the report
+
 ## Data
 
 The data for this assignment can be downloaded from the course web
